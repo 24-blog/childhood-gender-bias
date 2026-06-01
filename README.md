@@ -13,3 +13,5 @@ Gender-Based Comments on Academic Performance and Career Paths in Childhood: Inc
 https://24-blog.github.io/childhood-gender-bias/
 
 このことから、女性よりも「男性の方が」進路選択において意思干渉を受けやすい実態が示唆される。
+
+#### ※画像の著作権は内閣府男女共同参画局に帰属します

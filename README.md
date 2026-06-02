@@ -14,4 +14,11 @@ https://24-blog.github.io/childhood-gender-bias/
 
 このことから、女性よりも「男性の方が」進路選択において意思干渉を受けやすい実態が示唆される。
 
-⚠️画像の著作権は内閣府男女共同参画局に帰属します
+⚠️COPYRIGHT<br>
+The source code of this repository is licensed under MIT.
+
+Original government documents remain subject to their
+respective copyright and usage terms.
+
+Textual commentary written by the repository owner is
+licensed under CC BY-NC-ND 4.0.

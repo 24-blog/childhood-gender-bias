@@ -14,6 +14,7 @@ https://24-blog.github.io/childhood-gender-bias/
 
 このことから、女性よりも「男性の方が」進路選択において意思干渉を受けやすい実態が示唆される。
 
+
 ⚠️COPYRIGHT<br>
 The source code of this repository is licensed under MIT.
 
@@ -22,3 +23,7 @@ respective copyright and usage terms.
 
 Textual commentary written by the repository owner is
 licensed under CC BY-NC-ND 4.0.
+
+
+⚠️ABOUT<br>
+This project was originally created by me on [CodePen.](https://codepen.io/24blog/full/qEaEGgK)

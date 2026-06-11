@@ -19,8 +19,6 @@ https://24-blog.github.io/childhood-gender-bias/
 
 
 ⚠️COPYRIGHT<br>
-The source code of this repository is licensed under MIT.
-
 Original government documents remain subject to their
 respective copyright and usage terms.
 

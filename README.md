@@ -1,3 +1,6 @@
+　[![License](https://img.shields.io/github/license/24-blog/childhood-gender-bias)](LICENSE)
+
+
 # childhood-gender-bias
 Gender-Based Comments on Academic Performance and Career Paths in Childhood: Incidence and Statistical Significance
 

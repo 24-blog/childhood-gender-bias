@@ -1,4 +1,4 @@
-　[![License](https://img.shields.io/github/license/24-blog/childhood-gender-bias)](LICENSE)
+[![License](https://img.shields.io/github/license/24-blog/childhood-gender-bias)](LICENSE)
 
 
 # Childhood-Gender-Bias

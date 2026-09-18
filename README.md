@@ -27,5 +27,5 @@ licensed under CC BY-NC-ND 4.0.
 
 
 > [!TIP]
->This project was originally created by me on [CodePen.](https://codepen.io/24blog/full/qEaEGgK)
+>This code was originally created by me on [CodePen.](https://codepen.io/24blog/full/qEaEGgK)
  on February 27, 2026, and was published there under the MIT License.

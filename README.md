@@ -20,11 +20,10 @@ https://24-blog.github.io/childhood-gender-bias/
 
 
 ⚠️COPYRIGHT<br>
+All non-code text authored by the repository owner is licensed under CC BY-NC-ND 4.0.
+
 Original government documents remain subject to their
 respective copyright and usage terms.
-
-Textual commentary written by the repository owner is
-licensed under CC BY-NC-ND 4.0.
 
 
 > [!NOTE]

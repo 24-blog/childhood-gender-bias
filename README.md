@@ -3,7 +3,7 @@
 
 ### Childhood-Gender-Bias
 
-Gender-Based Comments on Children’s Educational and Career Aspirations: Incidence and Statistical Significance
+Gender-Based Comments on Children’s Education and Career Paths: Incidence and Statistical Significance
 
 <img src="images/figure-21.jpg" width="320" height="250" alt="">
 
